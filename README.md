@@ -1,6 +1,6 @@
 # ScreenMatch
 
-Este projeto é a continuação do desenvolvido no curso "Java: Criando a sua primeira aplicação" e foi aprimorado com novos conceitos no curso "Java: Aplicando a Orientação a Objetos" da Alura.
+Este projeto é a continuação do desenvolvido no curso "Java: Criando a sua primeira aplicação" e foi aprimorado com novos conceitos no curso "Java: Aplicando a Orientação a Objetos" e do curso " Java: trabalhando com listas e coleções de dados" da Alura
 
 ##  Objetivos do projeto:
 
